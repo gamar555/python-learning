@@ -53,6 +53,6 @@ for item, quantity in   zip(order_items, order_quantities):
     price = menu[item]
     item_total = price * quantity
     total += item_total
-    print(f"{item.capitalize()} x {quantity} @ ${price:.2f} each: ${item_total:.2f}")
+    print(f"{item.capitalize()} x {quantity} @{price:.2f} each: ${item_total:.2f}")
 print("***********************************************")
 print(f"Total cost: ${total:.2f}")
