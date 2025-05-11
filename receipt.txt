@@ -1,11 +1,12 @@
-*************** Welcome to the Python Cafe! ***************
-Customer Name: Amarjeet
- Date and time: 2025-05-11 13:57:42
+🏪 *************** Welcome to the Python Cafe! ***************
+👤 Customer Name: amarjeet
+📅 Date and time: 2025-05-11 14:55:31
 
-*************** Your Order Receipt ***************
-Water x 4 @ $1.00 each: $4.00
-Cake x 4 @ $4.50 each: $18.00
-Brownie x 5 @ $3.00 each: $15.00
-Bagel x 5 @ $2.00 each: $10.00
-***********************************************
-Thank you for visiting the Python Cafe!
+🍽️ *************** Your Order Receipt ***************
+Water x 3 @ $1.00 each: $3.00
+Tea x 3 @ $2.00 each: $6.00
+Pancakes x 3 @ $5.00 each: $15.00
+💳 -------------------------------------------
+💰 Total cost: $24.00
+🧾 Payment Method: UPI 📲
+🙏 Thank you for visiting the Python Cafe! Have a great day!
